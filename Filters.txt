@@ -1,0 +1,91 @@
+! Some missing filters
+
+! Global
+||tinypass.com^
+
+! Nikkei Asia (asia.nikkei.com)
+
+
+! Bloomberg Quint (bloombergquint.com)
+
+
+! Bloomberg (bloomberg.com)
+
+
+! Financial Times (ft.com)
+
+
+! First Thing (firstthings.com)
+
+
+! Foreign Policy (foreignpolicy.com)
+
+
+! Fortune (fortune.com)
+
+
+! Harpers (harpers.org)
+
+
+! Harvard Business Review (hbr.org)
+
+
+! Inc (inc.com)
+
+
+! London Review of Books (lrb.co.uk)
+
+
+! La Times (latimes.com) 
+
+
+! MIT Sloan Management Review (sloanreview.mit.edu)
+
+
+! MIT Technology Review (technologyreview.com)
+
+
+! Quartz (qz.com)
+
+
+! Scientific American (scientificamerican.com)
+
+
+! The American Interest (the-american-interest.com)
+
+
+! The Atlantic (theatlantic.com)
+
+
+! The Cut (thecut.com)
+
+
+! The Economist (economist.com)
+
+
+! The New York Times (nytimes.com)
+
+
+! The New Yorker (newyorker.com)
+
+
+! The Spectator (spectator.co.uk)
+
+
+! The Times (thetimes.co.uk)
+
+
+! The Telegraph (telegraph.co.uk)
+||telegraph.co.uk/martech^
+
+! The Wall Street Journal (wsj.com)
+
+
+! Washington Post (washingtonpost.com)
+
+
+! Times Literary Supplement (the-tls.co.uk)
+
+
+! Wired (wired.com)
+
